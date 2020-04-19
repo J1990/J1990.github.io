@@ -1,0 +1,42 @@
+<!DOCTYPE html height="100%" width="100%">
+
+<head>
+    <title>Vehicles and Air Quality in Ireland</title>
+    <meta charset="utf-8">
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <link rel="stylesheet" href="commonStyle.css" />
+    <link rel="stylesheet" href="bubbleChart.css" />
+    <link rel="stylesheet" href="lineChart.css" />
+    <link rel="stylesheet" href="heatChart.css" />
+</head>
+
+<body>
+    <table>
+        <tr>
+            <td width="46%" height="100%" rowspan="2">
+                <label class="labelSelectTitle">Select Year</label>
+                <select class="yearSelector"></select>
+                <svg class="bubbleChart">
+            </svg>
+            </td>
+            <td width="46%" height="44%" style="border: black; border-width: 1; border-style: inset; border-spacing: 0">
+                <div id="heatChartContainer" style="width: 100%; height: 100%; padding-top: 100;">
+                    <svg class="heatChart"></svg>
+                    <div class="tooltipHeat"></div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td width="46%" height="56%" style="border: black; border-width: 1; border-style: inset; border-spacing: 0">
+                <div style="padding-left: 70; padding-bottom: 70;">
+                    <svg class="lineChart"></svg>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <div id="tooltip"></div>
+    <script src="lineChart.js"></script>
+    <script src="bubbleChart.js"></script>
+    <script src="heatChart.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+</body>
