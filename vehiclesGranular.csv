@@ -1,0 +1,932 @@
+﻿Manufacturer,VehicleType,Year,Count
+HIGER,BusesCoaches,2020,10
+HIGER,BusesCoaches,2019,14
+HIGER,BusesCoaches,2018,14
+HIGER,BusesCoaches,2017,8
+HIGER,BusesCoaches,2016,2
+VDL-DAF,BusesCoaches,2019,2
+VDL-DAF,BusesCoaches,2018,17
+VDL-DAF,BusesCoaches,2017,46
+VDL-DAF,BusesCoaches,2016,15
+VDL-DAF,BusesCoaches,2014,6
+VDL-DAF,BusesCoaches,2013,7
+VDL-DAF,BusesCoaches,2012,12
+VDL-DAF,BusesCoaches,2011,4
+VDL-DAF,BusesCoaches,2009,3
+IVECO,BusesCoaches,2020,13
+IVECO,BusesCoaches,2019,41
+IVECO,BusesCoaches,2018,49
+IVECO,BusesCoaches,2017,34
+IVECO,BusesCoaches,2016,18
+IVECO,BusesCoaches,2015,3
+MAN,BusesCoaches,2019,2
+MAN,BusesCoaches,2018,7
+MAN,BusesCoaches,2017,11
+MAN,BusesCoaches,2016,45
+MAN,BusesCoaches,2015,10
+MAN,BusesCoaches,2014,2
+MAN,BusesCoaches,2013,1
+MAN,BusesCoaches,2010,3
+MERCEDES-BENZ,BusesCoaches,2020,16
+MERCEDES-BENZ,BusesCoaches,2019,31
+MERCEDES-BENZ,BusesCoaches,2018,26
+MERCEDES-BENZ,BusesCoaches,2017,25
+MERCEDES-BENZ,BusesCoaches,2016,48
+MERCEDES-BENZ,BusesCoaches,2015,19
+MERCEDES-BENZ,BusesCoaches,2014,12
+MERCEDES-BENZ,BusesCoaches,2013,6
+MERCEDES-BENZ,BusesCoaches,2012,13
+MERCEDES-BENZ,BusesCoaches,2011,1
+MERCEDES-BENZ,BusesCoaches,2010,12
+MERCEDES-BENZ,BusesCoaches,2009,39
+OTOKAR,BusesCoaches,2016,4
+SCANIA,BusesCoaches,2020,4
+SCANIA,BusesCoaches,2019,12
+SCANIA,BusesCoaches,2018,14
+SCANIA,BusesCoaches,2017,11
+SCANIA,BusesCoaches,2016,43
+SCANIA,BusesCoaches,2014,16
+SCANIA,BusesCoaches,2013,11
+SCANIA,BusesCoaches,2012,49
+SCANIA,BusesCoaches,2011,3
+SCANIA,BusesCoaches,2010,2
+SCANIA,BusesCoaches,2009,29
+VOLVO,BusesCoaches,2020,34
+VOLVO,BusesCoaches,2019,169
+VOLVO,BusesCoaches,2018,214
+VOLVO,BusesCoaches,2017,161
+VOLVO,BusesCoaches,2016,10
+VOLVO,BusesCoaches,2015,62
+VOLVO,BusesCoaches,2014,18
+VOLVO,BusesCoaches,2009,9
+WRIGHTBUS,BusesCoaches,2020,2
+WRIGHTBUS,BusesCoaches,2019,36
+WRIGHTBUS,BusesCoaches,2018,57
+WRIGHTBUS,BusesCoaches,2017,2
+WRIGHTBUS,BusesCoaches,2016,1
+YUTONG,BusesCoaches,2020,1
+YUTONG,BusesCoaches,2019,73
+YUTONG,BusesCoaches,2017,1
+YUTONG,BusesCoaches,2016,1
+PRIVATE IMPORT,BusesCoaches,2020,31
+PRIVATE IMPORT,BusesCoaches,2018,48
+PRIVATE IMPORT,BusesCoaches,2017,40
+PRIVATE IMPORT,BusesCoaches,2016,175
+PRIVATE IMPORT,BusesCoaches,2015,12
+PRIVATE IMPORT,BusesCoaches,2014,153
+PRIVATE IMPORT,BusesCoaches,2013,138
+PRIVATE IMPORT,BusesCoaches,2012,162
+PRIVATE IMPORT,BusesCoaches,2011,51
+PRIVATE IMPORT,BusesCoaches,2009,83
+OTHER,BusesCoaches,2015,9
+OTHER,BusesCoaches,2010,30
+DAF,BusesCoaches,2020,7
+DAF,BusesCoaches,2019,1
+DAF,BusesCoaches,2011,1
+ISUZU,BusesCoaches,2020,7
+ISUZU,BusesCoaches,2019,2
+SUNSUNDEGUI,BusesCoaches,2019,62
+AVIA,HeavyCommercial,2013,2
+AVIA,HeavyCommercial,2012,8
+AVIA,HeavyCommercial,2011,2
+AVIA,HeavyCommercial,2009,5
+DAF,HeavyCommercial,2020,123
+DAF,HeavyCommercial,2019,398
+DAF,HeavyCommercial,2018,437
+DAF,HeavyCommercial,2017,272
+DAF,HeavyCommercial,2016,390
+DAF,HeavyCommercial,2015,253
+DAF,HeavyCommercial,2014,282
+DAF,HeavyCommercial,2013,306
+DAF,HeavyCommercial,2012,117
+DAF,HeavyCommercial,2011,148
+DAF,HeavyCommercial,2010,147
+DAF,HeavyCommercial,2009,145
+DENNIS EAGLE,HeavyCommercial,2020,6
+DENNIS EAGLE,HeavyCommercial,2019,15
+DENNIS EAGLE,HeavyCommercial,2018,15
+DENNIS EAGLE,HeavyCommercial,2017,7
+DENNIS EAGLE,HeavyCommercial,2016,11
+DENNIS EAGLE,HeavyCommercial,2015,2
+DENNIS EAGLE,HeavyCommercial,2014,5
+DENNIS EAGLE,HeavyCommercial,2013,11
+DENNIS EAGLE,HeavyCommercial,2012,31
+FUSO,HeavyCommercial,2020,7
+FUSO,HeavyCommercial,2019,34
+FUSO,HeavyCommercial,2018,72
+FUSO,HeavyCommercial,2017,48
+FUSO,HeavyCommercial,2016,50
+FUSO,HeavyCommercial,2015,22
+FUSO,HeavyCommercial,2014,53
+HINO,HeavyCommercial,2019,5
+HINO,HeavyCommercial,2018,13
+HINO,HeavyCommercial,2017,21
+HINO,HeavyCommercial,2016,44
+HINO,HeavyCommercial,2015,103
+HINO,HeavyCommercial,2014,70
+HINO,HeavyCommercial,2013,47
+HINO,HeavyCommercial,2012,48
+HINO,HeavyCommercial,2011,36
+HINO,HeavyCommercial,2010,24
+HINO,HeavyCommercial,2009,60
+ISUZU,HeavyCommercial,2020,17
+ISUZU,HeavyCommercial,2019,73
+ISUZU,HeavyCommercial,2018,99
+ISUZU,HeavyCommercial,2017,77
+ISUZU,HeavyCommercial,2016,99
+ISUZU,HeavyCommercial,2015,89
+ISUZU,HeavyCommercial,2014,108
+ISUZU,HeavyCommercial,2013,72
+ISUZU,HeavyCommercial,2012,47
+ISUZU,HeavyCommercial,2011,76
+ISUZU,HeavyCommercial,2010,92
+ISUZU,HeavyCommercial,2009,14
+IVECO,HeavyCommercial,2020,33
+IVECO,HeavyCommercial,2019,98
+IVECO,HeavyCommercial,2018,65
+IVECO,HeavyCommercial,2017,112
+IVECO,HeavyCommercial,2016,95
+IVECO,HeavyCommercial,2015,50
+IVECO,HeavyCommercial,2014,23
+IVECO,HeavyCommercial,2013,96
+IVECO,HeavyCommercial,2012,31
+IVECO,HeavyCommercial,2011,55
+IVECO,HeavyCommercial,2010,65
+IVECO,HeavyCommercial,2009,52
+JOHNSTON,HeavyCommercial,2011,3
+JOHNSTON,HeavyCommercial,2010,5
+MAN,HeavyCommercial,2020,70
+MAN,HeavyCommercial,2019,139
+MAN,HeavyCommercial,2018,155
+MAN,HeavyCommercial,2017,136
+MAN,HeavyCommercial,2016,192
+MAN,HeavyCommercial,2015,158
+MAN,HeavyCommercial,2014,122
+MAN,HeavyCommercial,2013,141
+MAN,HeavyCommercial,2012,86
+MAN,HeavyCommercial,2011,60
+MAN,HeavyCommercial,2010,82
+MAN,HeavyCommercial,2009,86
+MERCEDES-BENZ,HeavyCommercial,2020,82
+MERCEDES-BENZ,HeavyCommercial,2019,228
+MERCEDES-BENZ,HeavyCommercial,2018,164
+MERCEDES-BENZ,HeavyCommercial,2017,233
+MERCEDES-BENZ,HeavyCommercial,2016,255
+MERCEDES-BENZ,HeavyCommercial,2015,190
+MERCEDES-BENZ,HeavyCommercial,2014,227
+MERCEDES-BENZ,HeavyCommercial,2013,153
+MERCEDES-BENZ,HeavyCommercial,2012,107
+MERCEDES-BENZ,HeavyCommercial,2011,100
+MERCEDES-BENZ,HeavyCommercial,2010,161
+MERCEDES-BENZ,HeavyCommercial,2009,199
+RENAULT,HeavyCommercial,2020,95
+RENAULT,HeavyCommercial,2019,280
+RENAULT,HeavyCommercial,2018,193
+RENAULT,HeavyCommercial,2017,246
+RENAULT,HeavyCommercial,2016,262
+RENAULT,HeavyCommercial,2015,170
+RENAULT,HeavyCommercial,2014,161
+RENAULT,HeavyCommercial,2013,120
+RENAULT,HeavyCommercial,2012,117
+RENAULT,HeavyCommercial,2011,120
+RENAULT,HeavyCommercial,2010,38
+RENAULT,HeavyCommercial,2009,45
+SCANIA,HeavyCommercial,2020,265
+SCANIA,HeavyCommercial,2019,483
+SCANIA,HeavyCommercial,2018,539
+SCANIA,HeavyCommercial,2017,524
+SCANIA,HeavyCommercial,2016,597
+SCANIA,HeavyCommercial,2015,487
+SCANIA,HeavyCommercial,2014,375
+SCANIA,HeavyCommercial,2013,239
+SCANIA,HeavyCommercial,2012,245
+SCANIA,HeavyCommercial,2011,182
+SCANIA,HeavyCommercial,2010,113
+SCANIA,HeavyCommercial,2009,121
+VOLVO,HeavyCommercial,2020,160
+VOLVO,HeavyCommercial,2019,344
+VOLVO,HeavyCommercial,2018,349
+VOLVO,HeavyCommercial,2017,542
+VOLVO,HeavyCommercial,2016,484
+VOLVO,HeavyCommercial,2015,290
+VOLVO,HeavyCommercial,2014,330
+VOLVO,HeavyCommercial,2013,268
+VOLVO,HeavyCommercial,2012,229
+VOLVO,HeavyCommercial,2011,175
+VOLVO,HeavyCommercial,2010,118
+VOLVO,HeavyCommercial,2009,161
+PRIVATE IMPORT,HeavyCommercial,2020,10
+PRIVATE IMPORT,HeavyCommercial,2019,81
+PRIVATE IMPORT,HeavyCommercial,2018,35
+PRIVATE IMPORT,HeavyCommercial,2017,20
+PRIVATE IMPORT,HeavyCommercial,2016,32
+PRIVATE IMPORT,HeavyCommercial,2015,27
+PRIVATE IMPORT,HeavyCommercial,2014,37
+PRIVATE IMPORT,HeavyCommercial,2013,58
+PRIVATE IMPORT,HeavyCommercial,2012,28
+PRIVATE IMPORT,HeavyCommercial,2011,135
+PRIVATE IMPORT,HeavyCommercial,2010,111
+PRIVATE IMPORT,HeavyCommercial,2009,159
+SINOTRUK,HeavyCommercial,2019,66
+SINOTRUK,HeavyCommercial,2018,8
+SINOTRUK,HeavyCommercial,2017,25
+MITSUBISHI,HeavyCommercial,2013,41
+MITSUBISHI,HeavyCommercial,2012,26
+MITSUBISHI,HeavyCommercial,2011,49
+MITSUBISHI,HeavyCommercial,2010,54
+MITSUBISHI,HeavyCommercial,2009,56
+DAEWOO,HeavyCommercial,2010,10
+CITROEN,LightCommercial,2020,845
+CITROEN,LightCommercial,2019,1537
+CITROEN,LightCommercial,2018,1465
+CITROEN,LightCommercial,2017,1493
+CITROEN,LightCommercial,2016,1446
+CITROEN,LightCommercial,2015,1363
+CITROEN,LightCommercial,2014,828
+CITROEN,LightCommercial,2013,666
+CITROEN,LightCommercial,2012,554
+CITROEN,LightCommercial,2011,451
+CITROEN,LightCommercial,2010,361
+CITROEN,LightCommercial,2009,343
+DACIA,LightCommercial,2020,11
+DACIA,LightCommercial,2019,85
+DACIA,LightCommercial,2018,95
+DACIA,LightCommercial,2017,90
+DACIA,LightCommercial,2016,92
+DACIA,LightCommercial,2015,28
+DACIA,LightCommercial,2014,19
+DACIA,LightCommercial,2013,1
+FIAT,LightCommercial,2020,93
+FIAT,LightCommercial,2019,363
+FIAT,LightCommercial,2018,555
+FIAT,LightCommercial,2017,408
+FIAT,LightCommercial,2016,568
+FIAT,LightCommercial,2015,523
+FIAT,LightCommercial,2014,448
+FIAT,LightCommercial,2013,315
+FIAT,LightCommercial,2012,405
+FIAT,LightCommercial,2011,397
+FIAT,LightCommercial,2010,511
+FIAT,LightCommercial,2009,514
+FORD,LightCommercial,2020,2037
+FORD,LightCommercial,2019,5323
+FORD,LightCommercial,2018,6117
+FORD,LightCommercial,2017,5744
+FORD,LightCommercial,2016,7580
+FORD,LightCommercial,2015,6466
+FORD,LightCommercial,2014,4299
+FORD,LightCommercial,2013,2541
+FORD,LightCommercial,2012,2278
+FORD,LightCommercial,2011,2452
+FORD,LightCommercial,2010,2073
+FORD,LightCommercial,2009,2135
+FUSO,LightCommercial,2020,23
+FUSO,LightCommercial,2019,82
+FUSO,LightCommercial,2018,72
+FUSO,LightCommercial,2017,74
+FUSO,LightCommercial,2016,88
+FUSO,LightCommercial,2015,100
+FUSO,LightCommercial,2014,61
+GM(OPEL),LightCommercial,2016,1276
+GM(OPEL),LightCommercial,2015,1128
+GM(OPEL),LightCommercial,2014,768
+GM(OPEL),LightCommercial,2013,450
+GM(OPEL),LightCommercial,2012,491
+GM(OPEL),LightCommercial,2011,517
+GM(OPEL),LightCommercial,2010,481
+GM(OPEL),LightCommercial,2009,581
+GREAT WALL,LightCommercial,2017,1
+GREAT WALL,LightCommercial,2016,8
+GREAT WALL,LightCommercial,2015,24
+GREAT WALL,LightCommercial,2014,14
+GREAT WALL,LightCommercial,2013,18
+HYUNDAI,LightCommercial,2020,144
+HYUNDAI,LightCommercial,2019,250
+HYUNDAI,LightCommercial,2018,171
+HYUNDAI,LightCommercial,2017,201
+HYUNDAI,LightCommercial,2016,303
+HYUNDAI,LightCommercial,2015,664
+HYUNDAI,LightCommercial,2014,607
+HYUNDAI,LightCommercial,2013,490
+HYUNDAI,LightCommercial,2012,157
+HYUNDAI,LightCommercial,2011,98
+HYUNDAI,LightCommercial,2010,359
+HYUNDAI,LightCommercial,2009,190
+ISUZU,LightCommercial,2020,68
+ISUZU,LightCommercial,2019,191
+ISUZU,LightCommercial,2018,172
+ISUZU,LightCommercial,2017,145
+ISUZU,LightCommercial,2016,194
+ISUZU,LightCommercial,2015,216
+ISUZU,LightCommercial,2014,150
+ISUZU,LightCommercial,2013,113
+ISUZU,LightCommercial,2012,34
+ISUZU,LightCommercial,2011,458
+ISUZU,LightCommercial,2010,619
+ISUZU,LightCommercial,2009,97
+IVECO,LightCommercial,2020,16
+IVECO,LightCommercial,2019,49
+IVECO,LightCommercial,2018,82
+IVECO,LightCommercial,2017,165
+IVECO,LightCommercial,2016,92
+IVECO,LightCommercial,2015,77
+IVECO,LightCommercial,2014,18
+IVECO,LightCommercial,2013,11
+IVECO,LightCommercial,2012,17
+IVECO,LightCommercial,2011,13
+IVECO,LightCommercial,2010,35
+KIA,LightCommercial,2020,127
+KIA,LightCommercial,2019,149
+KIA,LightCommercial,2018,128
+KIA,LightCommercial,2017,141
+KIA,LightCommercial,2016,111
+KIA,LightCommercial,2015,84
+KIA,LightCommercial,2014,144
+KIA,LightCommercial,2013,87
+KIA,LightCommercial,2012,38
+KIA,LightCommercial,2011,10
+KIA,LightCommercial,2010,161
+KIA,LightCommercial,2009,117
+LAND ROVER,LightCommercial,2020,158
+LAND ROVER,LightCommercial,2019,325
+LAND ROVER,LightCommercial,2018,143
+LAND ROVER,LightCommercial,2017,65
+LAND ROVER,LightCommercial,2016,875
+LAND ROVER,LightCommercial,2015,988
+LAND ROVER,LightCommercial,2014,742
+LAND ROVER,LightCommercial,2013,567
+LAND ROVER,LightCommercial,2012,442
+LAND ROVER,LightCommercial,2011,154
+LAND ROVER,LightCommercial,2010,132
+LAND ROVER,LightCommercial,2009,149
+LDV,LightCommercial,2020,54
+LDV,LightCommercial,2019,189
+LDV,LightCommercial,2018,235
+LDV,LightCommercial,2017,221
+LDV,LightCommercial,2016,489
+LDV,LightCommercial,2015,63
+LDV,LightCommercial,2009,2
+MERCEDES-BENZ,LightCommercial,2020,557
+MERCEDES-BENZ,LightCommercial,2019,1287
+MERCEDES-BENZ,LightCommercial,2018,1072
+MERCEDES-BENZ,LightCommercial,2017,1218
+MERCEDES-BENZ,LightCommercial,2016,1046
+MERCEDES-BENZ,LightCommercial,2015,967
+MERCEDES-BENZ,LightCommercial,2014,791
+MERCEDES-BENZ,LightCommercial,2013,337
+MERCEDES-BENZ,LightCommercial,2012,289
+MERCEDES-BENZ,LightCommercial,2011,334
+MERCEDES-BENZ,LightCommercial,2010,511
+MERCEDES-BENZ,LightCommercial,2009,609
+MINI,LightCommercial,2014,17
+MITSUBISHI,LightCommercial,2020,110
+MITSUBISHI,LightCommercial,2019,317
+MITSUBISHI,LightCommercial,2018,511
+MITSUBISHI,LightCommercial,2017,521
+MITSUBISHI,LightCommercial,2016,659
+MITSUBISHI,LightCommercial,2015,488
+MITSUBISHI,LightCommercial,2014,290
+MITSUBISHI,LightCommercial,2013,119
+MITSUBISHI,LightCommercial,2012,138
+MITSUBISHI,LightCommercial,2011,172
+MITSUBISHI,LightCommercial,2010,348
+MITSUBISHI,LightCommercial,2009,181
+NISSAN,LightCommercial,2020,449
+NISSAN,LightCommercial,2019,1247
+NISSAN,LightCommercial,2018,1157
+NISSAN,LightCommercial,2017,1306
+NISSAN,LightCommercial,2016,1208
+NISSAN,LightCommercial,2015,1010
+NISSAN,LightCommercial,2014,949
+NISSAN,LightCommercial,2013,634
+NISSAN,LightCommercial,2012,521
+NISSAN,LightCommercial,2011,666
+NISSAN,LightCommercial,2010,280
+NISSAN,LightCommercial,2009,289
+PEUGEOT,LightCommercial,2020,1004
+PEUGEOT,LightCommercial,2019,2088
+PEUGEOT,LightCommercial,2018,1672
+PEUGEOT,LightCommercial,2017,1761
+PEUGEOT,LightCommercial,2016,1710
+PEUGEOT,LightCommercial,2015,1143
+PEUGEOT,LightCommercial,2014,757
+PEUGEOT,LightCommercial,2013,527
+PEUGEOT,LightCommercial,2012,508
+PEUGEOT,LightCommercial,2011,485
+PEUGEOT,LightCommercial,2010,601
+PEUGEOT,LightCommercial,2009,413
+RENAULT,LightCommercial,2020,1055
+RENAULT,LightCommercial,2019,3610
+RENAULT,LightCommercial,2018,3443
+RENAULT,LightCommercial,2017,3228
+RENAULT,LightCommercial,2016,3579
+RENAULT,LightCommercial,2015,2958
+RENAULT,LightCommercial,2014,1614
+RENAULT,LightCommercial,2013,1166
+RENAULT,LightCommercial,2012,1266
+RENAULT,LightCommercial,2011,1647
+RENAULT,LightCommercial,2010,570
+RENAULT,LightCommercial,2009,956
+SSANGYONG,LightCommercial,2020,15
+SSANGYONG,LightCommercial,2019,23
+SSANGYONG,LightCommercial,2018,32
+SSANGYONG,LightCommercial,2017,63
+SSANGYONG,LightCommercial,2016,48
+SSANGYONG,LightCommercial,2015,69
+SSANGYONG,LightCommercial,2014,33
+SSANGYONG,LightCommercial,2013,14
+SUBARU,LightCommercial,2019,4
+SUBARU,LightCommercial,2018,10
+SUBARU,LightCommercial,2017,12
+SUBARU,LightCommercial,2016,14
+SUBARU,LightCommercial,2015,17
+SUBARU,LightCommercial,2014,17
+SUBARU,LightCommercial,2013,6
+SUBARU,LightCommercial,2012,14
+SUBARU,LightCommercial,2011,25
+SUBARU,LightCommercial,2010,19
+TOYOTA,LightCommercial,2020,693
+TOYOTA,LightCommercial,2019,1512
+TOYOTA,LightCommercial,2018,2407
+TOYOTA,LightCommercial,2017,1952
+TOYOTA,LightCommercial,2016,1960
+TOYOTA,LightCommercial,2015,1801
+TOYOTA,LightCommercial,2014,1099
+TOYOTA,LightCommercial,2013,737
+TOYOTA,LightCommercial,2012,967
+TOYOTA,LightCommercial,2011,954
+TOYOTA,LightCommercial,2010,1005
+TOYOTA,LightCommercial,2009,646
+VOLKSWAGEN,LightCommercial,2020,1588
+VOLKSWAGEN,LightCommercial,2019,4748
+VOLKSWAGEN,LightCommercial,2018,4890
+VOLKSWAGEN,LightCommercial,2017,4348
+VOLKSWAGEN,LightCommercial,2016,4658
+VOLKSWAGEN,LightCommercial,2015,3370
+VOLKSWAGEN,LightCommercial,2014,2856
+VOLKSWAGEN,LightCommercial,2013,2079
+VOLKSWAGEN,LightCommercial,2012,2325
+VOLKSWAGEN,LightCommercial,2011,1784
+VOLKSWAGEN,LightCommercial,2010,1376
+VOLKSWAGEN,LightCommercial,2009,1167
+PRIVATE IMPORT,LightCommercial,2020,15
+PRIVATE IMPORT,LightCommercial,2019,46
+PRIVATE IMPORT,LightCommercial,2018,51
+PRIVATE IMPORT,LightCommercial,2017,26
+PRIVATE IMPORT,LightCommercial,2016,76
+PRIVATE IMPORT,LightCommercial,2015,91
+PRIVATE IMPORT,LightCommercial,2014,114
+PRIVATE IMPORT,LightCommercial,2013,172
+PRIVATE IMPORT,LightCommercial,2012,428
+PRIVATE IMPORT,LightCommercial,2011,703
+PRIVATE IMPORT,LightCommercial,2010,969
+OTHER,LightCommercial,2020,18
+OTHER,LightCommercial,2019,52
+OTHER,LightCommercial,2018,95
+OTHER,LightCommercial,2017,44
+OTHER,LightCommercial,2016,100
+OTHER,LightCommercial,2015,84
+OTHER,LightCommercial,2014,17
+OTHER,LightCommercial,2013,26
+OTHER,LightCommercial,2010,1
+OTHER,LightCommercial,2009,825
+OPEL,LightCommercial,2020,253
+OPEL,LightCommercial,2019,1734
+OPEL,LightCommercial,2018,981
+OPEL,LightCommercial,2017,968
+AUDI,LightCommercial,2020,1
+AUDI,LightCommercial,2019,5
+AUDI,LightCommercial,2018,5
+MAN,LightCommercial,2020,44
+MAN,LightCommercial,2019,134
+DODGE,LightCommercial,2010,2
+MAZDA,LightCommercial,2011,1
+MAZDA,LightCommercial,2010,8
+MAZDA,LightCommercial,2009,14
+PIAGGIO,LightCommercial,2011,4
+PIAGGIO,LightCommercial,2010,4
+SEAT,LightCommercial,2010,57
+SEAT,LightCommercial,2009,16
+SUZUKI,LightCommercial,2011,3
+SUZUKI,LightCommercial,2010,13
+SUZUKI,LightCommercial,2009,2
+TATA,LightCommercial,2010,2
+CHRYSLER,LightCommercial,2012,2
+CHRYSLER,LightCommercial,2011,10
+CHRYSLER,LightCommercial,2010,31
+CHEVROLET,LightCommercial,2011,1
+CHEVROLET,LightCommercial,2010,4
+DODGE,LightCommercial,2011,7
+HONDA,LightCommercial,2010,13
+HONDA,LightCommercial,2009,1
+ALFA ROMEO,PassengerCar,2020,7
+ALFA ROMEO,PassengerCar,2019,39
+ALFA ROMEO,PassengerCar,2018,87
+ALFA ROMEO,PassengerCar,2017,97
+ALFA ROMEO,PassengerCar,2016,43
+ALFA ROMEO,PassengerCar,2015,43
+ALFA ROMEO,PassengerCar,2014,36
+ALFA ROMEO,PassengerCar,2013,16
+ALFA ROMEO,PassengerCar,2012,120
+ALFA ROMEO,PassengerCar,2011,170
+ALFA ROMEO,PassengerCar,2010,124
+ALFA ROMEO,PassengerCar,2009,151
+AUDI,PassengerCar,2020,1950
+AUDI,PassengerCar,2019,4575
+AUDI,PassengerCar,2018,4913
+AUDI,PassengerCar,2017,5535
+AUDI,PassengerCar,2016,6065
+AUDI,PassengerCar,2015,5211
+AUDI,PassengerCar,2014,4259
+AUDI,PassengerCar,2013,3687
+AUDI,PassengerCar,2012,3647
+AUDI,PassengerCar,2011,3406
+AUDI,PassengerCar,2010,2723
+AUDI,PassengerCar,2009,2388
+BMW,PassengerCar,2020,1652
+BMW,PassengerCar,2019,4005
+BMW,PassengerCar,2018,4280
+BMW,PassengerCar,2017,4643
+BMW,PassengerCar,2016,5504
+BMW,PassengerCar,2015,4826
+BMW,PassengerCar,2014,4011
+BMW,PassengerCar,2013,3530
+BMW,PassengerCar,2012,3329
+BMW,PassengerCar,2011,3263
+BMW,PassengerCar,2010,2493
+BMW,PassengerCar,2009,1405
+CHRYSLER,PassengerCar,2015,23
+CHRYSLER,PassengerCar,2014,23
+CHRYSLER,PassengerCar,2013,12
+CHRYSLER,PassengerCar,2012,115
+CHRYSLER,PassengerCar,2011,15
+CHRYSLER,PassengerCar,2010,2
+CHRYSLER,PassengerCar,2009,33
+CITROEN,PassengerCar,2020,381
+CITROEN,PassengerCar,2019,926
+CITROEN,PassengerCar,2018,1115
+CITROEN,PassengerCar,2017,1291
+CITROEN,PassengerCar,2016,1408
+CITROEN,PassengerCar,2015,1830
+CITROEN,PassengerCar,2014,1409
+CITROEN,PassengerCar,2013,1220
+CITROEN,PassengerCar,2012,1161
+CITROEN,PassengerCar,2011,1236
+CITROEN,PassengerCar,2010,1063
+CITROEN,PassengerCar,2009,819
+DACIA,PassengerCar,2020,1155
+DACIA,PassengerCar,2019,3018
+DACIA,PassengerCar,2018,3624
+DACIA,PassengerCar,2017,3641
+DACIA,PassengerCar,2016,4386
+DACIA,PassengerCar,2015,3784
+DACIA,PassengerCar,2014,2693
+DACIA,PassengerCar,2013,1286
+DS,PassengerCar,2019,38
+DS,PassengerCar,2018,14
+DS,PassengerCar,2017,35
+DS,PassengerCar,2016,13
+FIAT,PassengerCar,2020,83
+FIAT,PassengerCar,2019,400
+FIAT,PassengerCar,2018,657
+FIAT,PassengerCar,2017,761
+FIAT,PassengerCar,2016,717
+FIAT,PassengerCar,2015,634
+FIAT,PassengerCar,2014,601
+FIAT,PassengerCar,2013,457
+FIAT,PassengerCar,2012,664
+FIAT,PassengerCar,2011,855
+FIAT,PassengerCar,2010,1507
+FIAT,PassengerCar,2009,820
+FORD,PassengerCar,2020,3484
+FORD,PassengerCar,2019,9620
+FORD,PassengerCar,2018,11285
+FORD,PassengerCar,2017,12239
+FORD,PassengerCar,2016,14595
+FORD,PassengerCar,2015,12049
+FORD,PassengerCar,2014,9479
+FORD,PassengerCar,2013,7619
+FORD,PassengerCar,2012,8563
+FORD,PassengerCar,2011,10428
+FORD,PassengerCar,2010,11215
+FORD,PassengerCar,2009,8121
+GM(OPEL),PassengerCar,2016,7887
+GM(OPEL),PassengerCar,2015,7482
+GM(OPEL),PassengerCar,2014,6356
+GM(OPEL),PassengerCar,2013,4913
+GM(OPEL),PassengerCar,2012,5102
+GM(OPEL),PassengerCar,2011,6377
+GM(OPEL),PassengerCar,2010,6603
+GM(OPEL),PassengerCar,2009,4046
+HONDA,PassengerCar,2020,469
+HONDA,PassengerCar,2019,1326
+HONDA,PassengerCar,2018,1333
+HONDA,PassengerCar,2017,1331
+HONDA,PassengerCar,2016,1590
+HONDA,PassengerCar,2015,1507
+HONDA,PassengerCar,2014,1365
+HONDA,PassengerCar,2013,1003
+HONDA,PassengerCar,2012,1102
+HONDA,PassengerCar,2011,993
+HONDA,PassengerCar,2010,1183
+HONDA,PassengerCar,2009,1120
+HYUNDAI,PassengerCar,2020,5118
+HYUNDAI,PassengerCar,2019,11052
+HYUNDAI,PassengerCar,2018,11633
+HYUNDAI,PassengerCar,2017,11930
+HYUNDAI,PassengerCar,2016,15442
+HYUNDAI,PassengerCar,2015,11483
+HYUNDAI,PassengerCar,2014,8158
+HYUNDAI,PassengerCar,2013,5827
+HYUNDAI,PassengerCar,2012,5206
+HYUNDAI,PassengerCar,2011,3895
+HYUNDAI,PassengerCar,2010,2959
+HYUNDAI,PassengerCar,2009,1665
+JAGUAR,PassengerCar,2020,138
+JAGUAR,PassengerCar,2019,459
+JAGUAR,PassengerCar,2018,608
+JAGUAR,PassengerCar,2017,656
+JAGUAR,PassengerCar,2016,556
+JAGUAR,PassengerCar,2015,268
+JAGUAR,PassengerCar,2014,190
+JAGUAR,PassengerCar,2013,154
+JAGUAR,PassengerCar,2012,200
+JAGUAR,PassengerCar,2011,125
+JAGUAR,PassengerCar,2010,214
+JAGUAR,PassengerCar,2009,195
+JEEP,PassengerCar,2020,3
+JEEP,PassengerCar,2019,115
+JEEP,PassengerCar,2018,92
+JEEP,PassengerCar,2017,56
+JEEP,PassengerCar,2016,99
+JEEP,PassengerCar,2015,93
+JEEP,PassengerCar,2011,3
+JEEP,PassengerCar,2010,2
+JEEP,PassengerCar,2009,13
+KIA,PassengerCar,2020,2949
+KIA,PassengerCar,2019,6453
+KIA,PassengerCar,2018,7326
+KIA,PassengerCar,2017,7132
+KIA,PassengerCar,2016,6710
+KIA,PassengerCar,2015,5481
+KIA,PassengerCar,2014,4236
+KIA,PassengerCar,2013,3350
+KIA,PassengerCar,2012,3117
+KIA,PassengerCar,2011,2646
+KIA,PassengerCar,2010,2567
+KIA,PassengerCar,2009,1518
+LAND ROVER,PassengerCar,2020,720
+LAND ROVER,PassengerCar,2019,1136
+LAND ROVER,PassengerCar,2018,1024
+LAND ROVER,PassengerCar,2017,1217
+LAND ROVER,PassengerCar,2016,1167
+LAND ROVER,PassengerCar,2015,772
+LAND ROVER,PassengerCar,2014,532
+LAND ROVER,PassengerCar,2013,406
+LAND ROVER,PassengerCar,2012,498
+LAND ROVER,PassengerCar,2011,438
+LAND ROVER,PassengerCar,2010,234
+LAND ROVER,PassengerCar,2009,89
+LEXUS,PassengerCar,2020,247
+LEXUS,PassengerCar,2019,501
+LEXUS,PassengerCar,2018,484
+LEXUS,PassengerCar,2017,443
+LEXUS,PassengerCar,2016,592
+LEXUS,PassengerCar,2015,500
+LEXUS,PassengerCar,2014,351
+LEXUS,PassengerCar,2013,184
+LEXUS,PassengerCar,2012,264
+LEXUS,PassengerCar,2011,412
+LEXUS,PassengerCar,2010,301
+LEXUS,PassengerCar,2009,215
+MAZDA,PassengerCar,2020,780
+MAZDA,PassengerCar,2019,1872
+MAZDA,PassengerCar,2018,2209
+MAZDA,PassengerCar,2017,2678
+MAZDA,PassengerCar,2016,3011
+MAZDA,PassengerCar,2015,2236
+MAZDA,PassengerCar,2014,1792
+MAZDA,PassengerCar,2013,1408
+MAZDA,PassengerCar,2012,1433
+MAZDA,PassengerCar,2011,1796
+MAZDA,PassengerCar,2010,2243
+MAZDA,PassengerCar,2009,1682
+MERCEDES-BENZ,PassengerCar,2020,1590
+MERCEDES-BENZ,PassengerCar,2019,3298
+MERCEDES-BENZ,PassengerCar,2018,4116
+MERCEDES-BENZ,PassengerCar,2017,4830
+MERCEDES-BENZ,PassengerCar,2016,3774
+MERCEDES-BENZ,PassengerCar,2015,2620
+MERCEDES-BENZ,PassengerCar,2014,2050
+MERCEDES-BENZ,PassengerCar,2013,1459
+MERCEDES-BENZ,PassengerCar,2012,1834
+MERCEDES-BENZ,PassengerCar,2011,1905
+MERCEDES-BENZ,PassengerCar,2010,2059
+MERCEDES-BENZ,PassengerCar,2009,1370
+ROVER,PassengerCar,2009,4
+MINI,PassengerCar,2020,191
+MINI,PassengerCar,2019,523
+MINI,PassengerCar,2018,555
+MINI,PassengerCar,2017,623
+MINI,PassengerCar,2016,774
+MINI,PassengerCar,2015,662
+MINI,PassengerCar,2014,484
+MINI,PassengerCar,2013,464
+MINI,PassengerCar,2012,440
+MINI,PassengerCar,2011,413
+MINI,PassengerCar,2010,370
+MINI,PassengerCar,2009,263
+MITSUBISHI,PassengerCar,2020,244
+MITSUBISHI,PassengerCar,2019,909
+MITSUBISHI,PassengerCar,2018,768
+MITSUBISHI,PassengerCar,2017,661
+MITSUBISHI,PassengerCar,2016,942
+MITSUBISHI,PassengerCar,2015,872
+MITSUBISHI,PassengerCar,2014,592
+MITSUBISHI,PassengerCar,2013,484
+MITSUBISHI,PassengerCar,2012,361
+MITSUBISHI,PassengerCar,2011,608
+MITSUBISHI,PassengerCar,2010,916
+MITSUBISHI,PassengerCar,2009,616
+NISSAN,PassengerCar,2020,3462
+NISSAN,PassengerCar,2019,8202
+NISSAN,PassengerCar,2018,9701
+NISSAN,PassengerCar,2017,10347
+NISSAN,PassengerCar,2016,11885
+NISSAN,PassengerCar,2015,11196
+NISSAN,PassengerCar,2014,7025
+NISSAN,PassengerCar,2013,5312
+NISSAN,PassengerCar,2012,6023
+NISSAN,PassengerCar,2011,6699
+NISSAN,PassengerCar,2010,5494
+NISSAN,PassengerCar,2009,4684
+PERODUA,PassengerCar,2015,2
+PERODUA,PassengerCar,2014,6
+PERODUA,PassengerCar,2013,14
+PERODUA,PassengerCar,2012,8
+PERODUA,PassengerCar,2011,24
+PERODUA,PassengerCar,2010,17
+PERODUA,PassengerCar,2009,20
+PEUGEOT,PassengerCar,2020,2394
+PEUGEOT,PassengerCar,2019,5619
+PEUGEOT,PassengerCar,2018,5586
+PEUGEOT,PassengerCar,2017,3884
+PEUGEOT,PassengerCar,2016,4133
+PEUGEOT,PassengerCar,2015,3505
+PEUGEOT,PassengerCar,2014,2820
+PEUGEOT,PassengerCar,2013,2194
+PEUGEOT,PassengerCar,2012,2226
+PEUGEOT,PassengerCar,2011,2719
+PEUGEOT,PassengerCar,2010,2924
+PEUGEOT,PassengerCar,2009,1766
+PORSCHE,PassengerCar,2020,55
+PORSCHE,PassengerCar,2019,65
+PORSCHE,PassengerCar,2018,66
+PORSCHE,PassengerCar,2017,77
+PORSCHE,PassengerCar,2016,70
+PORSCHE,PassengerCar,2015,85
+PORSCHE,PassengerCar,2014,48
+PORSCHE,PassengerCar,2013,24
+PORSCHE,PassengerCar,2012,15
+PORSCHE,PassengerCar,2010,1
+PORSCHE,PassengerCar,2009,11
+RENAULT,PassengerCar,2020,3077
+RENAULT,PassengerCar,2019,6550
+RENAULT,PassengerCar,2018,7176
+RENAULT,PassengerCar,2017,8328
+RENAULT,PassengerCar,2016,8379
+RENAULT,PassengerCar,2015,6090
+RENAULT,PassengerCar,2014,4881
+RENAULT,PassengerCar,2013,3317
+RENAULT,PassengerCar,2012,5255
+RENAULT,PassengerCar,2011,8564
+RENAULT,PassengerCar,2010,9746
+RENAULT,PassengerCar,2009,2414
+SEAT,PassengerCar,2020,1965
+SEAT,PassengerCar,2019,4087
+SEAT,PassengerCar,2018,3688
+SEAT,PassengerCar,2017,3301
+SEAT,PassengerCar,2016,2791
+SEAT,PassengerCar,2015,2499
+SEAT,PassengerCar,2014,2402
+SEAT,PassengerCar,2013,2190
+SEAT,PassengerCar,2012,1360
+SEAT,PassengerCar,2011,1759
+SEAT,PassengerCar,2010,1642
+SEAT,PassengerCar,2009,690
+SKODA,PassengerCar,2020,4390
+SKODA,PassengerCar,2019,9300
+SKODA,PassengerCar,2018,9116
+SKODA,PassengerCar,2017,9029
+SKODA,PassengerCar,2016,9447
+SKODA,PassengerCar,2015,7816
+SKODA,PassengerCar,2014,6295
+SKODA,PassengerCar,2013,4902
+SKODA,PassengerCar,2012,5078
+SKODA,PassengerCar,2011,4641
+SKODA,PassengerCar,2010,4915
+SKODA,PassengerCar,2009,2390
+SSANGYONG,PassengerCar,2020,12
+SSANGYONG,PassengerCar,2019,47
+SSANGYONG,PassengerCar,2018,81
+SSANGYONG,PassengerCar,2017,103
+SSANGYONG,PassengerCar,2016,217
+SSANGYONG,PassengerCar,2015,107
+SUBARU,PassengerCar,2020,44
+SUBARU,PassengerCar,2019,96
+SUBARU,PassengerCar,2018,195
+SUBARU,PassengerCar,2017,169
+SUBARU,PassengerCar,2016,180
+SUBARU,PassengerCar,2015,199
+SUBARU,PassengerCar,2014,157
+SUBARU,PassengerCar,2013,114
+SUBARU,PassengerCar,2012,143
+SUBARU,PassengerCar,2011,208
+SUBARU,PassengerCar,2010,224
+SUBARU,PassengerCar,2009,249
+SUZUKI,PassengerCar,2020,446
+SUZUKI,PassengerCar,2019,1216
+SUZUKI,PassengerCar,2018,1286
+SUZUKI,PassengerCar,2017,1341
+SUZUKI,PassengerCar,2016,1263
+SUZUKI,PassengerCar,2015,881
+SUZUKI,PassengerCar,2014,653
+SUZUKI,PassengerCar,2013,578
+SUZUKI,PassengerCar,2012,630
+SUZUKI,PassengerCar,2011,602
+SUZUKI,PassengerCar,2010,656
+SUZUKI,PassengerCar,2009,575
+TOYOTA,PassengerCar,2020,6230
+TOYOTA,PassengerCar,2019,12123
+TOYOTA,PassengerCar,2018,12036
+TOYOTA,PassengerCar,2017,12684
+TOYOTA,PassengerCar,2016,15523
+TOYOTA,PassengerCar,2015,13109
+TOYOTA,PassengerCar,2014,10272
+TOYOTA,PassengerCar,2013,7661
+TOYOTA,PassengerCar,2012,9956
+TOYOTA,PassengerCar,2011,11646
+TOYOTA,PassengerCar,2010,10660
+TOYOTA,PassengerCar,2009,7603
+VOLKSWAGEN,PassengerCar,2020,5725
+VOLKSWAGEN,PassengerCar,2019,13506
+VOLKSWAGEN,PassengerCar,2018,13772
+VOLKSWAGEN,PassengerCar,2017,13828
+VOLKSWAGEN,PassengerCar,2016,15408
+VOLKSWAGEN,PassengerCar,2015,15369
+VOLKSWAGEN,PassengerCar,2014,11653
+VOLKSWAGEN,PassengerCar,2013,9492
+VOLKSWAGEN,PassengerCar,2012,10051
+VOLKSWAGEN,PassengerCar,2011,11196
+VOLKSWAGEN,PassengerCar,2010,10301
+VOLKSWAGEN,PassengerCar,2009,6174
+VOLVO,PassengerCar,2020,600
+VOLVO,PassengerCar,2019,1490
+VOLVO,PassengerCar,2018,1730
+VOLVO,PassengerCar,2017,1808
+VOLVO,PassengerCar,2016,1996
+VOLVO,PassengerCar,2015,1564
+VOLVO,PassengerCar,2014,1195
+VOLVO,PassengerCar,2013,883
+VOLVO,PassengerCar,2012,1154
+VOLVO,PassengerCar,2011,1264
+VOLVO,PassengerCar,2010,919
+VOLVO,PassengerCar,2009,762
+PRIVATE IMPORT,PassengerCar,2020,23
+PRIVATE IMPORT,PassengerCar,2019,62
+PRIVATE IMPORT,PassengerCar,2018,71
+PRIVATE IMPORT,PassengerCar,2017,79
+PRIVATE IMPORT,PassengerCar,2016,105
+PRIVATE IMPORT,PassengerCar,2015,147
+PRIVATE IMPORT,PassengerCar,2014,187
+PRIVATE IMPORT,PassengerCar,2013,102
+PRIVATE IMPORT,PassengerCar,2012,408
+PRIVATE IMPORT,PassengerCar,2011,1025
+PRIVATE IMPORT,PassengerCar,2010,1603
+OTHER,PassengerCar,2014,127
+OTHER,PassengerCar,2013,40
+OTHER,PassengerCar,2009,3102
+OPEL,PassengerCar,2020,1073
+OPEL,PassengerCar,2019,4202
+OPEL,PassengerCar,2018,4810
+OPEL,PassengerCar,2017,6530
+TESLA,PassengerCar,2020,358
+TESLA,PassengerCar,2019,270
+TESLA,PassengerCar,2018,120
+TESLA,PassengerCar,2017,49
+MG,PassengerCar,2010,1
+CHEVROLET,PassengerCar,2012,28
+CHEVROLET,PassengerCar,2011,422
+CHEVROLET,PassengerCar,2010,372
+CHEVROLET,PassengerCar,2009,277
+DAIHATSU,PassengerCar,2012,1
+DAIHATSU,PassengerCar,2011,5
+DAIHATSU,PassengerCar,2010,26
+DAIHATSU,PassengerCar,2009,62
+DODGE,PassengerCar,2010,13
+DODGE,PassengerCar,2009,49
+SAAB,PassengerCar,2013,1
+SAAB,PassengerCar,2012,6
+SAAB,PassengerCar,2011,138
+SAAB,PassengerCar,2010,81
+SAAB,PassengerCar,2009,99

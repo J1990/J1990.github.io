@@ -1,0 +1,62 @@
+circle {
+    fill: rgba(83, 83, 83);
+    opacity: 0.1;
+}
+
+circle.bus {
+    fill: rgb(214, 52, 47);
+    stroke: rgb(141, 35, 31);
+    stroke-width: 1;
+    opacity: 0.6;
+}
+
+circle.bus:hover {
+    fill: rgb(141, 35, 31);
+}
+
+circle.car {
+    fill: rgb(62, 1, 131);
+    stroke: rgb(41, 1, 87);
+    stroke-width: 1;
+    opacity: 0.6;
+}
+
+circle.car:hover {
+    fill: rgb(41, 1, 87);
+}
+
+circle.heavy {
+    fill: rgb(235, 223, 47);
+    stroke: rgb(153, 143, 10);
+    stroke-width: 1;
+    opacity: 0.6;
+}
+
+circle.heavy:hover {
+    fill: rgb(153, 143, 10);
+}
+
+circle.light {
+    fill: rgb(32, 145, 18);
+    stroke: rgb(21, 90, 11);
+    stroke-width: 1;
+    opacity: 0.6;
+}
+
+circle.light:hover {
+    fill: rgb(21, 90, 11);
+}
+
+#tooltip {
+    opacity: 0;
+    position: fixed;
+    text-align: left;
+    padding: 5px;
+    font: 14px sans-serif;
+    color: black;
+    background: rgb(255, 255, 255);
+    border: solid;
+    border-width: "2px";
+    pointer-events: none;
+    z-index: 1099;
+}

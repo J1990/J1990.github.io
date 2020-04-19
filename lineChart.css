@@ -1,0 +1,22 @@
+.line {
+    fill: none;
+    stroke: #1f77b4;
+    stroke-width: 2px;
+}
+
+.axisSteelBlue text {
+    fill: #1f77b4;
+}
+
+.axisRed text {
+    fill: #ff7f0e;
+}
+
+.axisPurple text {
+    fill: #2ca02c;
+}
+
+.lineChart {
+    overflow: visible;
+    font-weight: bold;
+}

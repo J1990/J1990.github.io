@@ -1,0 +1,9 @@
+.tooltipHeat {
+    opacity: 0;
+    position: fixed;
+    z-index: 1099;
+}
+
+.heatChart {
+    overflow: visible;
+}
